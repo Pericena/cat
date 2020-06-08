@@ -4,6 +4,7 @@ Evilcat es un script que se desarrollo para hacer ataques de shell reversa tanto
 
 
 La victima debe usar termux e instalar el script evilcat para luego nosotros usar el script cat donde tendremos el acceso a shell de termux 
+[![](https://github.com/Pericena/cat/blob/master/cat.png)](https://lpericena.blogspot.com/2020/05/evilcat.html)
 
 - 1.- Netcat | Install a Exploit Persistant Backdoor https://youtu.be/nzSmepO13kc 
 - 2.- Netcat | Parte#1 Desarrollo de Payloads Shell Reversa https://youtu.be/8z8ttDcAA5A 
@@ -25,3 +26,13 @@ Mas información
 
 - http://serveo.net/
 - https://www.base64encode.org/
+
+### Sigueme en las redes Sociales:
+- 🌎Blogger          https://lpericena.blogspot.com/
+- 💡 Github            https://github.com/Pericena
+- 🎬 youtube.com  https://www.youtube.com/channel/UCELx1m-NeAdBn7mCuQ86kcw
+- 📸 pinterest        https://es.pinterest.com/lushiopericena/
+- 🐤 twitter             https://twitter.com/LPericena
+- 👦 linkedin         https://www.linkedin.com/in/lpericena/
+
+
