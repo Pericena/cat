@@ -23,11 +23,11 @@ La victima debe usar termux e instalar el script evilcat para luego nosotros usa
 
 ## Requisitos Windows
 - ngrok https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip
-
-## Link
-
+- https://git-scm.com/downloads
 - http://serveo.net/
 - https://www.base64encode.org/
+
+
 
 ### Sigueme en las redes Sociales:
 - 🌎Blogger          https://lpericena.blogspot.com/
