@@ -12,6 +12,7 @@ La victima debe usar termux e instalar el script evilcat para luego nosotros usa
 - 4.- Netcat | Parte#3 Windows Instalación Shell Reversa Backdoors https://youtu.be/rz8JYvjPjpg 
 - 5.- Netcat | Parte#4 Linux Instalación Shell Reversa Backdoors https://youtu.be/dbgWrfsXAPY 
 - 6.- Netcat | Parte#5 Termux Instalación Shell Reversa Backdoors https://youtu.be/xsJGlzBWq3k 
+- 7.- Netcat | Parte#7 Payloads Shell Reversa Instalación Termux Backdoors https://youtu.be/vP0rk49bYxg
 
 #### Mas información 
 - https://lpericena.blogspot.com/p/curso-netcat-hacking.html 
